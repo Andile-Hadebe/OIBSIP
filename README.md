@@ -1,4 +1,3 @@
-`markdown
 # Retail Sales EDA
 
 ## 📊 Project Overview
