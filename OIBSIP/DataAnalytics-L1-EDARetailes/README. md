@@ -1,0 +1,45 @@
+📊 Exploratory Data Analysis on Retail Sales Data
+
+This project was completed as part of my Data Analytics internship at Oasis Infobyte. The goal was to perform a thorough EDA on a retail sales dataset (1,000 transactions) to uncover customer behavior, sales trends, and actionable business insights.
+
+🔍 Key Questions Answered:
+
+· What are the monthly and quarterly sales trends?
+· Which product categories drive the most sales?
+· Who are the key customer segments by age and gender?
+· What correlations exist between numeric variables?
+
+🛠️ Tech Stack:
+
+· Python
+· pandas (data manipulation)
+· matplotlib & seaborn (visualization)
+· Jupyter Notebook
+
+📈 Key Insights:
+
+· Monthly sales peak in May (~R50,000) — seasonal patterns matter
+· Q4 is the strongest quarter (~R130,000)
+· Clothing is the most purchased category
+· Females lead in quantity sold
+· Quantity is strongly correlated with Total Amount (r = 0.85)
+
+🎯 Business Recommendations:
+
+· Leverage seasonal peaks for targeted promotions
+· Optimize inventory for top-performing categories (Clothing)
+· Run campaigns targeting female shoppers
+· Consider bundling products to increase quantity per transaction
+
+📂 Files:
+
+· retail_sales_eda.ipynb – Full Jupyter Notebook with code & visualizations
+· retail_sales_dataset.csv – Dataset used (1,000 rows)
+· README.md – Project overview and documentation
+
+🔗 Connect with me:
+
+· LinkedIn: https://www.linkedin.com/in/andile-hadebe
+· Email: andilesbuyis@gmail.com
+
+#DataAnalytics #EDA #Python #RetailAnalytics #OasisInfobyte
